@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Turing.API/appsettings.Development.json
+/Turing.API/appsettings.json
+/Turing.API/Turing.API.http
